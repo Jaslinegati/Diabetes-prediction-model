@@ -40,4 +40,4 @@ The project is structured as follows:
 The results of the project, including the performance metrics and interpretation of the model, are documented in the Model Evaluation notebook.
 
 # Conclusion
-In this project, we have successfully built a logistic regression model to predict whether a person has diabetes or not. The model achieved an accuracy of XX% on the test set, indicating its potential to be useful in predicting diabetes at an early stage.
+In this project, we have successfully built a logistic regression model to predict whether a person has diabetes or not. The model achieved an accuracy of .98% on the test set, indicating its potential to be useful in predicting diabetes at an early stage.
